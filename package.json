@@ -1,0 +1,21 @@
+{
+  "name": "ponte-claude",
+  "version": "0.1.0",
+  "description": "Servidor MCP que deixa o Claude de duas pessoas conversarem sobre o mesmo projeto, usando Issues do GitHub como canal.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "ponte-claude": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node teste/teste-local.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.25.0"
+  }
+}
