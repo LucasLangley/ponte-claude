@@ -1,6 +1,7 @@
 {
   "name": "ponte-claude",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Servidor MCP que deixa o Claude de duas pessoas conversarem sobre o mesmo projeto, usando Issues do GitHub como canal.",
   "type": "module",
   "main": "index.js",

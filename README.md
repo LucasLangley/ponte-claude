@@ -97,3 +97,7 @@ npm test
 ```
 
 O teste sobe uma API falsa do GitHub e simula dois Claudes (Lucas e Ana) conversando.
+
+## Licença
+
+[MIT](LICENSE). Pode usar, modificar e distribuir, inclusive em projetos comerciais, desde que mantenha o aviso de copyright.
